@@ -107,4 +107,53 @@ Makes it easier to remember without sacrificing security
 Cracking this password using modern brute-force techniques would take billions of years
 ```
 
+🔐 How Password Complexity Affects Security – Summary
+=====
+```
+1. Increases Brute-Force Resistance
+
+Longer and more complex passwords take exponentially more time to guess using brute-force attacks.
+
+Example:
+
+abcd1234 = crackable in seconds
+
+B%J@m!n8Netany@#U = could take trillions of years
+
+2. Defeats Common Attacks
+
+Simple passwords are vulnerable to:
+
+Dictionary attacks (guessing common words)
+
+Credential stuffing (reusing leaked passwords)
+
+Complexity adds randomness, making these attacks ineffective.
+
+3. Involves Diverse Character Sets
+
+The more types of characters used (uppercase, lowercase, numbers, symbols), the larger the possible combinations.
+
+Example:
+
+Only lowercase, 8 characters → 26⁸ = 208 billion combinations
+
+Mixed characters, 18 characters → ~10⁴⁰+ combinations
+
+4. Reduces Predictability
+
+Complex passwords avoid:
+
+Patterns (e.g., 123, password, qwerty)
+
+Personal info (e.g., birthdate, name)
+
+Random and non-repeating elements are harder to guess.
+
+5. Must Be Balanced with Usability
+
+Extremely complex passwords may be hard to remember.
+
+Solution: Use a passphrase or a password manager.
+```
 
