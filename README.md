@@ -68,3 +68,43 @@ This adds memorability while still being highly secure, thanks to added complexi
 4. Brute-force Resistance:
 ✔️ Extremely high — this password would take billions of years to crack via offline brute-force methods.
 ```
+# Password - 3 B%J@m!n8Netany@#U
+
+![image](https://github.com/user-attachments/assets/5b4bc1a0-4275-426c-952a-92b8a8fdaca1)
+
+
+# Password Strength Analysis & Tips
+```
+
+1. Length: 18 characters ✅
+
+✔️ Very strong – exceeds recommended minimum (12+).
+
+2. Character Variety ✅
+
+Uppercase letters: B, J, N, U
+
+Lowercase letters: m, n, e, t, a, n, y
+
+Digit: 8
+
+Symbols: %, @, !, @, #
+
+✔️ Contains all 4 character categories
+
+3. Composition Quality ✅
+
+Good blend of random elements and pronounceable parts (e.g., Netany)
+
+Makes it easier to remember without sacrificing security
+
+4. Compatibility ✅
+
+✅ All characters are standard ASCII, ensuring compatibility with all websites, apps, and password managers
+
+5. Brute-force Resistance ✅
+
+Cracking this password using modern brute-force techniques would take billions of years
+```
+
+
